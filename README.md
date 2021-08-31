@@ -1,0 +1,2 @@
+# Intelligent-video-surveillance
+Nowadays, 24*7 Surveillance Security is a very tedious and time-consuming job, right?  As, continuous monitoring of videos is difficult and tiresome for humans. so, we came up with an Application "Intelligent Video Surveillance", it is a solution to laborious human task. We analyzed the video feed in real-time though CCTV to identify any abnormal activities like violence or theft &amp; generating an alarm if violence is detected, also Application captures the images of people who are responsible for the same.
